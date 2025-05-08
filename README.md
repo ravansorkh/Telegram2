@@ -101,4 +101,10 @@ services:
       - key: BOT_TOKEN
         value: YOUR_TELEGRAM_BOT_TOKEN_HERE
         
-  
+  requirements.txt
+  python-telegram-bot==20.8
+aiohttp
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
+
