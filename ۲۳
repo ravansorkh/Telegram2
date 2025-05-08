@@ -1,1 +1,9 @@
 python-telegram-bot==20.3
+python-telegram-bot==20.3
+aiohttp
+
+python-telegram-bot==20.3
+Telegram2/
+├── bot.py
+├── requirements.txt
+├── README.md (اگر داری)
